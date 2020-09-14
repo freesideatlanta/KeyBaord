@@ -2,48 +2,6 @@
 FileName = KeyBaord_V0.1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Overlay
-      File : KeyBaord_V0.1.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : KeyBaord_V0.1.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D14
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 1
       File : KeyBaord_V0.1.GM1
 
@@ -156,6 +114,48 @@ Generating : Top Paste
 Used DCodes :
     D14
     D15
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : KeyBaord_V0.1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : KeyBaord_V0.1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
 *************************************************************
 
 *************************************************************

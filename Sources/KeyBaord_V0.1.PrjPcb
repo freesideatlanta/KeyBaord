@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for KeyBaord_V0.1
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -145,71 +145,71 @@ GenerateClassCluster=0
 DocumentUniqueId=XVQFEWVM
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for KeyBaord_V0.1\BOM\Bill of Materials-KeyBaord_V0.1.xlsx
+DocumentPath=..\Fabrication\BOM\Bill of Materials-KeyBaord_V0.1.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for KeyBaord_V0.1\NC Drill\KeyBaord_V0.1-RoundHoles.TXT
+DocumentPath=..\Fabrication\NC Drill\KeyBaord_V0.1-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for KeyBaord_V0.1\NC Drill\KeyBaord_V0.1-SlotHoles.TXT
+DocumentPath=..\Fabrication\NC Drill\KeyBaord_V0.1-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for KeyBaord_V0.1\NC Drill\KeyBaord_V0.1.DRR
+DocumentPath=..\Fabrication\NC Drill\KeyBaord_V0.1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for KeyBaord_V0.1\Gerber\KeyBaord_V0.1.EXTREP
+DocumentPath=..\Fabrication\Gerber\KeyBaord_V0.1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for KeyBaord_V0.1\Gerber\KeyBaord_V0.1.GBL
+DocumentPath=..\Fabrication\Gerber\KeyBaord_V0.1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for KeyBaord_V0.1\Gerber\KeyBaord_V0.1.GBO
+DocumentPath=..\Fabrication\Gerber\KeyBaord_V0.1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for KeyBaord_V0.1\Gerber\KeyBaord_V0.1.GBP
+DocumentPath=..\Fabrication\Gerber\KeyBaord_V0.1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for KeyBaord_V0.1\Gerber\KeyBaord_V0.1.GBS
+DocumentPath=..\Fabrication\Gerber\KeyBaord_V0.1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for KeyBaord_V0.1\Gerber\KeyBaord_V0.1.GM1
+DocumentPath=..\Fabrication\Gerber\KeyBaord_V0.1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for KeyBaord_V0.1\Gerber\KeyBaord_V0.1.GTL
+DocumentPath=..\Fabrication\Gerber\KeyBaord_V0.1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for KeyBaord_V0.1\Gerber\KeyBaord_V0.1.GTO
+DocumentPath=..\Fabrication\Gerber\KeyBaord_V0.1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for KeyBaord_V0.1\Gerber\KeyBaord_V0.1.GTP
+DocumentPath=..\Fabrication\Gerber\KeyBaord_V0.1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for KeyBaord_V0.1\Gerber\KeyBaord_V0.1.GTS
+DocumentPath=..\Fabrication\Gerber\KeyBaord_V0.1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for KeyBaord_V0.1\NC Drill\KeyBaord_V0.1.LDP
+DocumentPath=..\Fabrication\NC Drill\KeyBaord_V0.1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for KeyBaord_V0.1\Gerber\KeyBaord_V0.1.REP
+DocumentPath=..\Fabrication\Gerber\KeyBaord_V0.1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for KeyBaord_V0.1\Gerber\KeyBaord_V0.1.RUL
+DocumentPath=..\Fabrication\Gerber\KeyBaord_V0.1.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -245,7 +245,7 @@ ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for KeyBaord_V0.1
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -846,36 +846,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

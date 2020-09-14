@@ -75,9 +75,9 @@ OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
 OutputEnabled3_OutputMedium5=0
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=9.81|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration3_Name1=OutputConfigurationParameter1
-Configuration3_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=7874016|ViewY=8661417|LookAtX=31860000|LookAtY=16293700|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=0.000105525458478676|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ViewConfig= 
+Configuration3_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=7874016|ViewY=8661417|LookAtX=31860000|LookAtY=16293700|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=0.000105525458478676|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ViewConfig=
 OutputType4=PCB Print
 OutputName4=PCB Prints
 OutputCategory4=Documentation
@@ -150,9 +150,9 @@ Configuration6_Name5=VisibleOrder
 Configuration6_Item5=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 
 [PublishSettings]
-OutputFilePath2=C:\GIT\Keybaord\KeyBaord_V0.1\Project Outputs for KeyBaord_V0.1\3DPCB_KayBaord_V0.1.PDF
-ReleaseManaged2=1
-OutputBasePath2=Project Outputs for KeyBaord_V0.1
+OutputFilePath2=C:\GIT\KeyBaord\Fabrication\3DPCB_KeyBaord_V0.1.PDF
+ReleaseManaged2=0
+OutputBasePath2=..\Fabrication\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -177,9 +177,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\GIT\Keybaord\KeyBaord_V0.1\Project Outputs for KeyBaord_V0.1\PCBPRINT_KayBaord_V0.1.PDF
-ReleaseManaged3=1
-OutputBasePath3=Project Outputs for KeyBaord_V0.1
+OutputFilePath3=C:\GIT\KeyBaord\Fabrication\PCBPRINT_KeyBaord_V0.1.PDF
+ReleaseManaged3=0
+OutputBasePath3=..\Fabrication\
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -204,15 +204,15 @@ ShowComponentParameters3=1
 GlobalBookmarks3=0
 PDFACompliance3=Disabled
 PDFVersion3=Default
-OutputFilePath4=C:\GIT\Keybaord\KeyBaord_V0.1\Project Outputs for KeyBaord_V0.1\3DPCB.PDF
-ReleaseManaged4=1
-OutputBasePath4=Project Outputs for KeyBaord_V0.1
+OutputFilePath4=C:\GIT\KeyBaord\Fabrication\SCHEMATIC_KeyBaord_V0.1.PDF
+ReleaseManaged4=0
+OutputBasePath4=..\Fabrication\
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
 OutputPathOutputerPrefix4=
 OutputPathOutputerValue4=
-OutputFileName4=SCHEMATIC_KeyBaord_V0.1PDF
+OutputFileName4=SCHEMATIC_KeyBaord_V0.1.PDF
 OutputFileNameMulti4=
 UseOutputNameForMulti4=0
 OutputFileNameSpecial4=
@@ -231,9 +231,9 @@ ShowComponentParameters4=1
 GlobalBookmarks4=0
 PDFACompliance4=Disabled
 PDFVersion4=Default
-OutputFilePath5=C:\GIT\Keybaord\KeyBaord_V0.1\Project Outputs for KeyBaord_V0.1\
-ReleaseManaged5=1
-OutputBasePath5=Project Outputs for KeyBaord_V0.1
+OutputFilePath5=C:\GIT\KeyBaord\Fabrication\
+ReleaseManaged5=0
+OutputBasePath5=..\Fabrication\
 OutputPathMedia5=
 OutputPathMediaValue5=
 OutputPathOutputer5=[Output Type]
@@ -246,13 +246,13 @@ OutputFileNameSpecial5=
 OpenOutput5=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\GIT\Keybaord\KeyBaord_V0.1\Project Outputs for KeyBaord_V0.1\3DPCB_KayBaord_V0.1.PDF
+RelativeOutputPath2=C:\GIT\KeyBaord\Fabrication\3DPCB_KeyBaord_V0.1.PDF
 OpenOutputs2=1
-RelativeOutputPath3=C:\GIT\Keybaord\KeyBaord_V0.1\Project Outputs for KeyBaord_V0.1\PCBPRINT_KayBaord_V0.1.PDF
+RelativeOutputPath3=C:\GIT\KeyBaord\Fabrication\PCBPRINT_KeyBaord_V0.1.PDF
 OpenOutputs3=1
-RelativeOutputPath4=C:\GIT\Keybaord\KeyBaord_V0.1\Project Outputs for KeyBaord_V0.1\3DPCB.PDF
+RelativeOutputPath4=C:\GIT\KeyBaord\Fabrication\SCHEMATIC_KeyBaord_V0.1.PDF
 OpenOutputs4=1
-RelativeOutputPath5=C:\GIT\Keybaord\KeyBaord_V0.1\Project Outputs for KeyBaord_V0.1\
+RelativeOutputPath5=C:\GIT\KeyBaord\Fabrication\
 OpenOutputs5=1
 AddToProject5=1
 TimestampFolder5=0
